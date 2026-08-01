@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-mebc6g.altogel87inr.lat/sitemap.xml
